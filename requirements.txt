@@ -5,3 +5,5 @@ aiohttp
 smartapi-python
 pycryptodome
 matplotlib
+logzero
+
