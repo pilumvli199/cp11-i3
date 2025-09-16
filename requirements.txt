@@ -1,6 +1,7 @@
 python-dotenv
 requests
 pyotp
+aiohttp
 smartapi-python
 pycryptodome
 matplotlib
